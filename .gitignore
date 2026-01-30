@@ -41,15 +41,6 @@ vectorstore/
 *.db
 
 # =========================
-# Uploaded / Generated Files
-# =========================
-uploads/
-*.pdf
-*.png
-*.jpg
-*.jpeg
-
-# =========================
 # OCR / Image Processing
 # =========================
 *.tiff
