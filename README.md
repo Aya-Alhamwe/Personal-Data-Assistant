@@ -1,4 +1,3 @@
-````markdown
 # 📄 Personal Data Assistant (PDF Chatbot)
 
 **Personal Data Assistant** is an AI-powered web application that allows users to upload PDF documents and interact with them conversationally. The assistant understands the content of the uploaded document and answers user questions using Retrieval-Augmented Generation (RAG).
@@ -192,6 +191,3 @@ This project is provided for educational and personal use.
 You are free to modify and extend it.
 
 ---
-
-```
-```
